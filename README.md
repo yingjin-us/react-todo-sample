@@ -22,7 +22,7 @@ npm install
 
 ```bash
 # Run in terminal
-npm run server
+npm run serve
 ```
 
 Debug in Visual Studio Code with <kbd>f5</kbd>
